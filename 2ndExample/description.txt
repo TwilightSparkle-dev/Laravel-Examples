@@ -1,0 +1,11 @@
+Analytics
+jobs:
+one for cron job(setStatJob),
+the second one for calculating previous dates (setStatByDateJob, run by command).
+----------------
+
+Refactoring of push notifications
+
+The command reformatPushPostData is needed to execute once, so I didn't bother much.
+transfers data from one type to another (in order to save old data).
+2022

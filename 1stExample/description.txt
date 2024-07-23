@@ -1,0 +1,1 @@
+Endpoint for receiving data via API. 2021

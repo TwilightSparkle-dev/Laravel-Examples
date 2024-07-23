@@ -1,0 +1,4 @@
+Here I refactored and refined the logic of authorization via google,
+This is an intermediate version, some of it is implemented in services, some of it still needs to be refactored.
+There is a method loginOld in the kontroller - this is the code I started with
+2021
